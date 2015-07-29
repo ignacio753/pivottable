@@ -94,3 +94,6 @@ table.pvtTable tr td {
 .pvtCheckContainer p{ margin: 5px; }
 
 .pvtRendererArea { padding: 5px;}
+.pvtRenderer {display: none;}
+.pvtAggregator {display: none}
+.pvtAttrDropdown {display: none}
